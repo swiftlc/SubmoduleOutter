@@ -1,0 +1,3 @@
+[submodule "SubmoduleInner"]
+	path = SubmoduleInner
+	url = git@github.com:swiftlc/SubmoduleInner.git
